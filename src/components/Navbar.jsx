@@ -1,4 +1,4 @@
-const navbar = () => {
+const Navbar = () => {
     return (
         <div 
             className="navbar fixed w-full transition-all py-4 bg-slate-100 bg-opacity-75 shadow" 
@@ -29,4 +29,4 @@ const navbar = () => {
     )
 }
 
-export default navbar   
+export default Navbar   
